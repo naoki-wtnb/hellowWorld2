@@ -1,2 +1,2 @@
 # hellowWorld2
-This is my text repository
+This is my test repository
